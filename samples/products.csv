@@ -1,0 +1,4 @@
+Title,wholesale,image,description,variants,moq,sku,brand name,email,first name,last name
+Premium T-Shirt,29.99,https://ribbon-dev-react.s3.amazonaws.com/assets/original/68713959f808bf62643ae0bd/68713968f808bf62643ae13e/JENNA_BEE_HANDMADE_057.jpg,Soft cotton blend t-shirt with premium finish,"S,M,L,XL",50,t160Profile,Ai Profile Builder,profilebuilder@meetribbon.com,Profile,Builder
+Eco Tote Bag,19.99,https://ribbon-dev-react.s3.amazonaws.com/assets/original/68713a00373cc08ab4f662f3/68713a0f373cc08ab4f66379/JennaBeebyMW22-26_83a8893d-50e6-40f8-a764-92b0f29528d3.jpg,Sustainable canvas tote bag for everyday use,"Natural,Black",25,t260Profile,,,,
+Jute Bags,89.99,https://ribbon-dev-react.s3.amazonaws.com/assets/original/68713959f808bf62643ae0bd/68713968f808bf62643ae137/JENNABEE_FALL-WINTER12769.jpg,High-quality wireless earbuds with noise cancellation,"White,Black,Blue",10,t360Profile,,,,
